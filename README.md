@@ -1,13 +1,11 @@
-<h1 align="left">Hi 👋, I'm J@$kir@t!!</h1>
-<h3 align="left">software developer | Android Mobile Applications Developer.</h3>
+<h1 align="left">Hi 👋, I'm Parmeet!!</h1>
+<h3 align="left">software developer | ReactJs Developer.</h3>
 
 <img align="right" src="https://media2.giphy.com/media/USV0ym3bVWQJJmNu3N/giphy.gif?cid=ecf05e47uivustt9qwbtc9k31s32nsmyp0hxs1b8uwgy90mg&rid=giphy.gif" width="270" height="270"/>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=singhjaskirat984&label=Visitors&color=0e75b6&style=flat" alt="singhjaskirat984" /> </p> 
 
-<p align="left"> <a href="https://twitter.com/singhjaskirat91" target="blank"><img src="https://img.shields.io/twitter/follow/singhjaskirat91?logo=twitter&style=for-the-badge" alt="singhjaskirat91" /></a> </p>
-
-- 🔭 I’m currently working on **Android Java/Kotlin Mobile Applications**
+- 🔭 I’m currently working on **More ReactJs Projects**
 
 - 🌱 I’m currently learning **Data Structures and Algorithms**
 
