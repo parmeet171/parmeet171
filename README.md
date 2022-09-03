@@ -9,26 +9,25 @@
 
 - 🌱 I’m currently learning **Data Structures and Algorithms**
 
-- 👯 I’m looking to collaborate on **Android Projects and some java based work**
+- 👯 I’m looking to collaborate on **ReactJs and Web developing related work**
 
 - 🤝 I’m looking for help with **Data Structures in Java Language**
 
-- 👨‍💻 All of my projects are available at [https://github.com/singhjaskirat984](https://github.com/singhjaskirat984)
+- 👨‍💻 All of my projects are available at [https://github.com/parmeet171](https://github.com/parmeet171?tab=repositories)
 
-- 💬 Ask me about **Android Applications**
+- 💬 Ask me about **ReactJs Applications**
 
-- 📫 How to reach me **singhjaskirat984@gmail.com**
+- 📫 How to reach me **singhparmeet171@gmail.com**
 
-- 📄 Know about my experiences [RESUME](https://drive.google.com/file/d/1mOrrdchQ64no0cx76XNou4YE0Hcj50IV/view?usp=sharing)
+- 📄 Know about my experiences [RESUME](https://drive.google.com/file/d/16p7ThGcYSlBNb6zqzS-WhUfiXObkNc_y/view?usp=sharing)
 
 - ⚡ Fun fact **fan of Web Shows and Punjabi Music:)**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/singhjaskirat91" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="singhjaskirat91" height="30" width="40" /></a>
-<a href="https://www.linkedin.com/in/jaskirat-singh-44577016a/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="https://www.linkedin.com/in/jaskirat-singh-44577016a" height="30" width="40" /></a>
-<a href="https://www.instagram.com/jaskiratsingh28/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="singhjaskirat984" height="30" width="40" /></a>
-<a href="https://www.facebook.com/profile.php?id=100009272894094" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" alt="https://www.facebook.com/profile.php?id=100009272894094" height="30" width="40" /></a>
+<a href="www.linkedin.com/in/parmeet-singh-4319b1230" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="www.linkedin.com/in/parmeet-singh-4319b1230" height="30" width="40" /></a>
+<a href="https://www.instagram.com/_parmeet_singh_08/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="_parmeet_singh_08" height="30" width="40" /></a>
+<a href="https://www.facebook.com/parmeet.singh.186590" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" alt="https://www.facebook.com/parmeet.singh.186590" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
