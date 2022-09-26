@@ -19,7 +19,7 @@
 
 - 📫 How to reach me **singhparmeet171@gmail.com**
 
-- 📄 Know about my experiences [RESUME](https://drive.google.com/file/d/16p7ThGcYSlBNb6zqzS-WhUfiXObkNc_y/view?usp=sharing)
+- 📄 Know about my experiences [RESUME](https://drive.google.com/file/d/1TEKRDiuOTt-R5VPXaStvrpRw7HqSWiIG/view?usp=sharing)
 
 - ⚡ Fun fact **fan of Web Shows and Punjabi Music:)**
 
